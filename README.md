@@ -61,7 +61,7 @@ Feel free to fork the repository and contribute to the project. You can submit i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me via email at [your-email@example.com].
+If you have any questions or suggestions, feel free to reach out to me via email at aasthamistry2003@gmail.com.
 
 ---
 
